@@ -1,5 +1,5 @@
 #include<stdio.h>
-int sum_of_digits(int); //function declaration
+int sum_of_digits(int); //function declaration test
 int main() //calling function for sum_of_digits
 {
         int n,ret;
